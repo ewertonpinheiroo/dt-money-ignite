@@ -1,6 +1,6 @@
 
 
-#Dt-Money (Dark Mode)
+# Dt-Money (Dark Mode)
 
 <p align="center">
   :moneybag: Manage your money. Project developed during the second Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
